@@ -1,5 +1,5 @@
 #    '''
-#     A boar is a list of str. For example, the board
+#     A board is a list of str. For example, the board
 #        ANTT
 #        XSOB
 #    is represented as the list
